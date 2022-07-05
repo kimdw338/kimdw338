@@ -2,7 +2,9 @@
 #### 정해진 목표를 향해 달리는 추진력이 장점입니다.
 #### 2022년 하반기 목표는 가시적인 결과물을 내는 것과 적성을 찾는 것 2가지입니다.
 #### 현재 공부중인 각 기술 스택과 관련된 결과물을 올해 안에 하나씩 내고, 
-#### 느리더라도 차근차근 더 나은 프로젝트로 개발해내겠습니다.
+#### 느리더라도 차근차근 더 나은 프로젝트로 개발해내겠습니다.   
+#### SNS Link
+[![Gmail Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/donghada_life/)
 ---
 ### 공부중 studying...
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
