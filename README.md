@@ -19,4 +19,4 @@
 
 [![Dongha's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdw338&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dongha0940})](https://solved.ac/{dongha0940})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongha0940)](https://solved.ac/dongha0940)
