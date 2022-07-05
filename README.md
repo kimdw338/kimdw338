@@ -1,16 +1,22 @@
-### Hi there 👋
+# 🙋Hello! I'm dongha🙋
+#### 정해진 목표를 향해 달리는 추진력이 장점입니다.
+#### 2022년 하반기 목표는 가시적인 결과물을 내는 것과 적성을 찾는 것 2가지입니다.
+#### 현재 공부중인 각 기술 스택과 관련된 결과물을 올해 안에 하나씩 내고, 
+#### 느리더라도 차근차근 더 나은 프로젝트로 개발하겠습니다.
+---
+### 공부중 studying...
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)      
+   
+      
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)   
 
-<!--
-**kimdw338/kimdw338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Dongha's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdw338&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dongha0940})](https://solved.ac/{dongha0940})
