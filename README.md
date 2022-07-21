@@ -1,8 +1,10 @@
 # 🙋Hello! I'm dongha🙋
-#### 정해진 목표를 향해 달리는 추진력이 장점입니다.
-#### 2022년 하반기 목표는 가시적인 결과물을 내는 것과 적성을 찾는 것 2가지입니다.
-#### 현재 공부중인 각 기술 스택과 관련된 결과물을 올해 안에 하나씩 내고, 
-#### 느리더라도 차근차근 더 나은 프로젝트로 개발해내겠습니다.   
+#### 저의 장점은 정해진 목표를 향해 달리는 추진력입니다.
+#### 2022년 하반기 목표는 가시적인 결과물을 내는 것입니다.
+#### 적성은 고민 끝에 프론트엔드 개발자로 정했습니다.
+#### 현재 공부 진행 중인 각 기술 스택과 관련된 결과물을 올해 안에 하나씩 내고, 
+#### 느리더라도 차근차근 더 나은 프로젝트로 개발해내겠습니다.
+
 ### SNS Link
 [![Gmail Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/donghada_life/)
 ---
@@ -13,8 +15,6 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)      
    
-      
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)   
